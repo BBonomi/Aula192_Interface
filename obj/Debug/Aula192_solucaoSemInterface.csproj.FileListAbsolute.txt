@@ -1,0 +1,6 @@
+C:\Users\BONO\Desktop\Bruno\Udemy\C# Completo\Seção 14 Interfaces\Aula192_solucaoSemInterface\bin\Debug\Aula192_solucaoSemInterface.exe.config
+C:\Users\BONO\Desktop\Bruno\Udemy\C# Completo\Seção 14 Interfaces\Aula192_solucaoSemInterface\bin\Debug\Aula192_solucaoSemInterface.exe
+C:\Users\BONO\Desktop\Bruno\Udemy\C# Completo\Seção 14 Interfaces\Aula192_solucaoSemInterface\bin\Debug\Aula192_solucaoSemInterface.pdb
+C:\Users\BONO\Desktop\Bruno\Udemy\C# Completo\Seção 14 Interfaces\Aula192_solucaoSemInterface\obj\Debug\Aula192_solucaoSemInterface.csprojAssemblyReference.cache
+C:\Users\BONO\Desktop\Bruno\Udemy\C# Completo\Seção 14 Interfaces\Aula192_solucaoSemInterface\obj\Debug\Aula192_solucaoSemInterface.exe
+C:\Users\BONO\Desktop\Bruno\Udemy\C# Completo\Seção 14 Interfaces\Aula192_solucaoSemInterface\obj\Debug\Aula192_solucaoSemInterface.pdb

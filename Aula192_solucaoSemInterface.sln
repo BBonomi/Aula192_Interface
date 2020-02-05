@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula192_solucaoSemInterface", "Aula192_solucaoSemInterface.csproj", "{834C6067-EAB0-40FB-BDC3-7F8F07C554BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{834C6067-EAB0-40FB-BDC3-7F8F07C554BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834C6067-EAB0-40FB-BDC3-7F8F07C554BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834C6067-EAB0-40FB-BDC3-7F8F07C554BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834C6067-EAB0-40FB-BDC3-7F8F07C554BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5AAF622-9A03-47E5-87BD-E27A88A74C99}
+	EndGlobalSection
+EndGlobal
